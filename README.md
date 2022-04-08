@@ -43,9 +43,6 @@ clique de distância.
           A solidariedade é um combustível para mudar o mundo.
      </h2>
 
-![Apresentação sem título - Apresentacao_Projeto pdf - Mozilla Firefox 08_04_2022 13_23_14](https://user-images.githubusercontent.com/93824520/162482973-a8ce944a-8701-4c39-9856-ddfa096cacfa.png)
-
-
 <a id="-funcionalidades"></a>
 
 ## Funcionalidades
@@ -66,6 +63,8 @@ clique de distância.
 <a id="-layout"></a>
 
 ## Layout
+
+![Apresentação sem título - Apresentacao_Projeto pdf - Mozilla Firefox 08_04_2022 13_23_14](https://user-images.githubusercontent.com/93824520/162482973-a8ce944a-8701-4c39-9856-ddfa096cacfa.png)
 
 O layout da aplicação inicial disponível no Marvel:
 [Protótipo Navegável](https://marvelapp.com/prototype/90418ga/screen/85662155)
