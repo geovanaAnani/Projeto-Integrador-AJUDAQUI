@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/drawable/ic_baseline_edit_note_24.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/drawable/shape_container_catalogo.xml" value="0.1505" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/drawable/shape_editdados.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/drawable/shape_ongs.xml" value="0.1505" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/card_layout_tarefa.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_bemvindo.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_cadastro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_catalogo.xml" value="0.21" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_doar.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_edit_dados.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_i_a.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_list.xml" value="0.21" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_perfilragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoX-6 para teste/app/src/main/res/layout/fragment_segundo.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/drawable/shape_bottom.xml" value="0.13" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/drawable/shape_bottom_ia.xml" value="0.13" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/layout/card_layout_tarefa.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/layout/fragment_bemvindo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/layout/fragment_catalogo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/layout/fragment_doar.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/layout/fragment_i_a.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/layout/fragment_perfilragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjetoXfinalVersion/app/src/main/res/layout/fragment_segundo.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Task4e5/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Task4e5/app/src/main/res/layout/card_layout_tarefa.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Task4e5/app/src/main/res/layout/fragment_list.xml" value="0.209375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Task4e5/app/src/main/res/layout/fragment_segundo.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/User/Desktop/FRED/Generation aula 37/Atividades/Task7e8parte2/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/FRED/Generation aula 37/Atividades/Task7e8parte2/app/src/main/res/layout/card_layout_tarefa.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/User/Desktop/FRED/Generation aula 37/Atividades/Task7e8parte2/app/src/main/res/layout/fragment_bemvindo.xml" value="0.22" />
+        <entry key="..\:/Users/User/Desktop/FRED/Generation aula 37/Atividades/Task7e8parte2/app/src/main/res/layout/fragment_cadastro.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/FRED/Generation aula 37/Atividades/Task7e8parte2/app/src/main/res/layout/fragment_list.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/FRED/Generation aula 37/Atividades/Task7e8parte2/app/src/main/res/layout/fragment_segundo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/FRED/Generation aula 41/05042022/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/card_layout_tarefa.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/drawable/gradientbackgroud.xml" value="0.2075" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/card_layout_tarefa.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_bemvindo.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_cadastro.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_catalogo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_doar.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_edit_dados.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_feed.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_i_a.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_list.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_login.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_perfilragment.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/Mandar para o repositorio x incrementar os layouts do pessoal/ProjetoX/app/src/main/res/layout/fragment_segundo.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/card_layout_tarefa.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_bemvindo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_cadastro.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_catalogo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_doar.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_edit_dados.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_i_a.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_list.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_login.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_perfilragment.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/ProjetoX/app/src/main/res/layout/fragment_segundo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/Task4e5/app/src/main/res/layout/card_layout_tarefa.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/User/Desktop/Task4e5/app/src/main/res/layout/fragment_list.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/User/Desktop/Task4e5/app/src/main/res/layout/fragment_segundo.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/User/Desktop/Task4e5parte 3/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/User/Desktop/Task4e5parte 3/app/src/main/res/layout/card_layout_tarefa.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/User/Desktop/Task4e5parte 3/app/src/main/res/layout/fragment_segundo.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/User/Desktop/Task7e8parte2/app/src/main/res/layout/activity_main.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/User/Desktop/Task7e8parte2/app/src/main/res/layout/card_layout_tarefa.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/User/Desktop/Task7e8parte2/app/src/main/res/layout/fragment_bemvindo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/Task7e8parte2/app/src/main/res/layout/fragment_list.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/User/Desktop/Task7e8parte2/app/src/main/res/layout/fragment_segundo.xml" value="0.22" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.213" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.213" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.213" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.213" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.213" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/card_layout_tarefa.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_bemvindo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_cadastro.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_catalogo.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_doar.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_edit_dados.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_i_a.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_list.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_login.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_perfilragment.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Desktop/backup geo delete e atualiza/ProjetoX/app/src/main/res/layout/fragment_segundo.xml" value="0.209375" />
+        <entry key="..\:/Users/welli/AndroidStudioProjects/ProjetoX/app/src/main/res/layout/fragment_doar.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
