@@ -27,7 +27,7 @@
 
 ## Sobre o Projeto
 <p align="center"> 
-   Atualmente certa de 24,1% da população brasileira vive abaixo da linha a pobreza, juntando e esse dado 
+   Atualmente certa de 24,1% da população brasileira vive abaixo da linha a pobreza, juntando  esse dado 
   e uma das primeiras ODS da ONU(* Erradicação da Pobreza), criamos uma aplicação que concentra informações e
   benefícios disponíveis para pessoas de alta vulnerabilidade terem acesso ou até descobrir lugares e redes de apoio afim 
 de uma evolução de vida.
